@@ -30,6 +30,7 @@ body {
 }
 
 
+
 #title {
     position: absolute;
     left: 50%;
@@ -69,7 +70,8 @@ body {
 #legend {
     display: flex;
     position: absolute;
-    bottom: 1rem;
+    right: 0rem;
+    bottom: 0rem;
 }
 
 #legend-row1, #legend-row2 {
@@ -88,14 +90,14 @@ body {
     position: absolute;
     padding: 0 1rem 1rem 1rem;
     text-align: center;
-    background: #474862;
+    background: black;
     font-size: 1rem;
     box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
     border-radius: 2px;
     pointer-events: none;
     line-height: 1.5rem;
     color: #e5e7ed;
-    transition: 0.3s ease;
+    transition: 0.1s ease;
     opacity: 0;
   }
 

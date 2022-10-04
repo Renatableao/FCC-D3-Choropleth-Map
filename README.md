@@ -1,7 +1,7 @@
-# Free Code Camp Data Visualization Projects: D3 Heat Map
+# Free Code Camp Data Visualization Projects: D3 Choropleth Map
 
 
-Link to deployed app: https://renatableao.github.io/FCC-D3-HeatMap/
+Link to deployed app: 
 
 
 Technologies:
